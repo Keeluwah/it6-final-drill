@@ -1,0 +1,13 @@
+.venv/
+venv/
+__pycache__/
+.pytest_cache/
+.pytest-tmp/
+*.pyc
+*.pyo
+*.pyd
+actors.db
+test_actors.db
+tests/_runtime/
+.env
+.tmp/
